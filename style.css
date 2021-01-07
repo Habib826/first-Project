@@ -1,0 +1,143 @@
+*{
+ padding: 0px;
+ margin: 0px;
+}
+span{
+    color: cyan;
+}
+#heading1{
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.head{
+    
+    width: 40%;
+    height: 300px;
+    float: left;
+    margin: 0px 0px 0px 100px;
+}
+
+.linkButton{
+    color: white;
+    text-decoration: none;
+    background-image: linear-gradient(45deg, cyan, blue);
+    padding: 10px 20px;
+    margin-left: 100px;
+    border-radius: 10px;
+    font-weight: bold;
+}
+.firstPara{
+    margin-bottom: 30px;
+    text-align: justify;
+    font-size: 18px;
+
+}
+
+.head img{
+    width: 100%;
+}
+
+.secondHead img{
+    width: 100%;
+}
+.secondPart{
+    margin-top: 100px;
+}
+
+.secondHead{
+    width: 45%;
+    height: 100px;
+    float: left;
+    margin-top: 137px;
+
+}
+
+#head2{
+    margin: 30px 0px 0px 100px;
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    color: darkblue;
+}
+
+#image{
+    margin-left: 100px;
+}
+
+#secondPara{
+    text-align: justify;
+    font-size: 18px;
+    margin: 30px 0px 20px 150px;
+}
+
+.linkButton2{
+    color: white;
+    text-decoration: none;
+    background-image: linear-gradient(45deg, cyan, blue);
+    padding: 10px 20px;
+    margin-left: 250px;
+    border-radius: 10px;
+    font-weight: bold;
+    text-align: center;
+}
+
+#head{
+    margin-left: 100px;
+}
+
+#work{
+    margin-top: 500px;
+    height: auto;
+    float: left;
+}
+
+.working{
+    width: 25%;
+    height: auto;
+    float: left;
+    padding: 30px;
+    margin-left: 50px;
+    box-shadow: 20px 20px 40px gray;
+}
+
+.working img{
+    width: 100%;
+
+}
+
+#exprience{
+    text-align: center;
+    color: cyan;
+    font-weight: bold;
+    font-size: 35px;
+    padding: 20px 0px;
+}
+
+
+
+
+.linkButton3{
+    color: white;
+    text-decoration: none;
+    background-image: linear-gradient(45deg, cyan, blue);
+    padding: 10px 20px;
+    margin-left: 400px;
+    margin-bottom: 50em;
+    border-radius: 10px;
+    font-weight: bold;
+    text-align: center;
+}
+.linkButton4{
+    color: white;
+    text-decoration: none;
+    background-image: linear-gradient(45deg, cyan, blue);
+    padding: 10px 20px;
+    border-radius: 10px;
+    margin: 0px 0px 200px 400px;
+
+}
+
+
+
